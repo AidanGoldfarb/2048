@@ -1,4 +1,4 @@
-package com.aidangoldfarb.game;
+
 /*
  * simpler point class than the one java provies 
  */

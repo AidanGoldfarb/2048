@@ -1,4 +1,4 @@
-package com.aidangoldfarb.game;
+
 /*
  * simple enum for simplicity 
  */
